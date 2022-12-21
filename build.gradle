@@ -4,7 +4,9 @@ plugins {
     id 'checkstyle'
     id 'pmd'
     id 'com.github.spotbugs' version '4.7.5'
+
 }
+
 
 group = 'com.gildedrose'
 version = '0.0.1-SNAPSHOT'
